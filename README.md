@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Tunisian Sign Language app](https://github.com/MaryemJaouadii/tunisian_sign_language)
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Devops**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MaryemJaouadii](https://github.com/MaryemJaouadii)
 
