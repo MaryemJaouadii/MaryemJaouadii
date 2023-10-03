@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Maryem Jaouadi</h1>
-<h3 align="center">versatile, autonomous and self-motivated software engineering student from Tunisia</h3>
+<h3 align="center">versatile, autonomous and self-motivated software engineer</h3>
 
-- 🔭 I’m currently working on [Tunisian Sign Language app](https://github.com/MaryemJaouadii/tunisian_sign_language)
+- 🔭 I’m currently working on a **Spring Boot** project.
 
 - 🌱 I’m currently learning **Devops**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MaryemJaouadii](https://github.com/MaryemJaouadii)
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **React/ NextJS and Cypress**
 
 - 📫 How to reach me **mariamjawadi271@gmail.com**
 
