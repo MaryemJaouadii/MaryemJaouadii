@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariem Jaouadi</h1>
 <h3 align="center">versatile, autonomous and self-motivated software engineer</h3>
 
-- 🔭 I’m currently working on a **Spring Boot** project.
+- 🔭 I’m currently working on a **React** project.
 
 - 🌱 I’m currently learning **Devops**
 
